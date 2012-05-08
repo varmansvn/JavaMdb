@@ -1,0 +1,1 @@
+This sample project is to show a way to work with Microsoft Access right from Java code by not using ODBC JDBC Bridge. We use Jackcess to simply the things.
